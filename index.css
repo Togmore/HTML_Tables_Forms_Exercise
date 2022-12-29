@@ -1,5 +1,5 @@
 caption {
-    font-size: 80px;
+    font-size: 3rem;
 
 }
 
@@ -12,7 +12,7 @@ table, th, td {
   }
 
   thead {
-    font-size: 25px;
+    font-size: 2rem;
     font-family: 'Courier New', Courier, monospace;
   }
 
@@ -41,6 +41,6 @@ table, th, td {
   }
 
   .button5 {
-    border-radius: 12px;
-    font-size: 60px;
+    border-radius: 2rem;
+    font-size: 6rem;
 }
