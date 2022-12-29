@@ -1,0 +1,43 @@
+caption {
+    font-size: 80px;
+
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+  table {
+    width: 70%;
+  }
+
+  thead {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .title {
+    font-size: 60px;
+  }
+
+  table {
+    margin: 2em;
+  }
+
+  table {
+    padding: 5em;
+  }
+
+
+  body {
+    background-color: lightblue;
+  }
+
+  .form {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 2em;
+    font-size: 20px;
+  }
+
+  
